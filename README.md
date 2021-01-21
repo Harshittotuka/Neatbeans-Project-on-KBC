@@ -1,0 +1,2 @@
+# Neatbeans-Project-on-KBC
+I Created this project when I was in the 11th class. This project is a copy of real-life KBC, it includes each and every feature of real-life KBC (including lifelines, score bar, CHEQUE, real-life awarding system, and many more). - - I am sharing only the FRAMES OF THE COMPLETE PROJECT BECAUSE OF THE THREAT OF STEALING. If u like my project and want to use it or modify it just contact me, I will give you all its file. - - This project is created using JAVA language on NETBEANS IDE.
